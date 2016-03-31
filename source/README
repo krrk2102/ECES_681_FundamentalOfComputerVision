@@ -1,0 +1,5 @@
+This is final project implementation of ECES 681 by Shangqi Wu, fundamentals of computer vision. It is implemented with Matlab 2015b. Some functions are borrowed from homework solution #5. 
+
+Matlab source code files are in the zip file. After extracting the zip file, please change directory to ./source/ to examine source codes. Please note images are located under sub directory of ./source/image/. If you intend to add more images, please put new images under that directory. 
+
+The entry file of this project is ProjectExecutable.m. To run this file, please open this file with Matlab, and click run. The set of functions do not show images, if you are interested in examine each step of image processing, please add break points by Matlab, and type imshow command as you need. 
